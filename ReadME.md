@@ -8,8 +8,8 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Annepu Hyndhavi</h1>
-<h3 align="center">Ms in Artificial Intelligence student.</h3>
+<h1 align="center">Hi 👋, I'm Annepu Hyndhavi</h1> 
+<h3 align="center">Ms in Artificial Intelligence student.</h3>  <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annepuhyndhavi&label=Profile%20views&color=0e75b6&style=flat" alt="annepuhyndhavi" /> </p>
 
