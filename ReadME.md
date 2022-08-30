@@ -29,6 +29,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annepuhyndhavi&" alt="annepuhyndhavi" /></p>
 
+# My GitHub contributions as a Game of Life
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+
 ### :fire: My Stats :
  <div>
   <a href="https://github.com/eagrundy">
