@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p
-  
-  * 👂 My name is Annepu Hyndhavi
+* 👂 My name is Annepu Hyndhavi
 * 👩 Pronouns: She/her
 * 🔭 I’m currently working on ML models
 * 🌱 I’m currently learning Deep Learning
@@ -27,7 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="bash" width="45" height="45"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp;
-
+     
 </p>
 
 
